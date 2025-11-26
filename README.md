@@ -1,6 +1,6 @@
 # Mon Site Vitrine 
 
-Bienvenue sur le dépôt GitHub de mon site vitrine ! Ce site a été conçu pour présenter mon profil, mes expériences, mes réalisations, les services que je propose, et permettre aux visiteurs de me contacter facilement.
+Bienvenue sur le dépôt GitHub de mon porfolio ! Ce site a été conçu pour présenter mon profil, mes expériences, mes réalisations, les services que je propose, et permettre aux visiteurs de me contacter facilement.
 
 ## 🌟 Sections principales
 
